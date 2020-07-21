@@ -1,0 +1,1033 @@
+1565578418044	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.I9e83iLWVQj2"
+1565578419237	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565578419237	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565578419237	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565578422039	Marionette	INFO	Listening on port 53088
+1565578422126	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+1565578448664	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.9yNN5UaxDz3B"
+1565578449364	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565578449365	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565578449365	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565578451393	Marionette	INFO	Listening on port 53191
+1565578451465	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+1565578522735	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.y3kAhVEiR1Xp"
+1565578523461	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565578523461	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565578523461	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565578525635	Marionette	INFO	Listening on port 53297
+1565578525739	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565395285947%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1565578654542	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.h68Bwhdzz4zt"
+1565578655256	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565578655257	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565578655257	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565578657710	Marionette	INFO	Listening on port 53402
+1565578657779	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+1565578680625	Marionette	INFO	Stopped listening on port 53088
+1565578683888	Marionette	INFO	Stopped listening on port 53191
+1565578687242	Marionette	INFO	Stopped listening on port 53297
+1565578690194	Marionette	INFO	Stopped listening on port 53402
+1565578900145	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.WXAyAtp2AnLN"
+1565578900829	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565578900830	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565578900830	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565578903184	Marionette	INFO	Listening on port 53586
+1565578903245	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+1565579299619	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.9m6VYyCzbH8J"
+1565579300662	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565579300663	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565579300663	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565579303054	Marionette	INFO	Listening on port 53760
+1565579303149	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+1565579325938	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.ZpAbffTxmYs3"
+1565579326592	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565579326592	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565579326592	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565579328846	Marionette	INFO	Listening on port 53851
+1565579328872	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+1565579369237	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.4gcgizwLemuI"
+1565579370072	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565579370072	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565579370072	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565579372416	Marionette	INFO	Listening on port 53933
+1565579372495	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context19' can't be sent as the connection is closed."
+1565579382543	Marionette	INFO	Stopped listening on port 53586
+1565579386313	Marionette	INFO	Stopped listening on port 53760
+1565579389440	Marionette	INFO	Stopped listening on port 53851
+1565579554979	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.HHFYy3fftvKS"
+1565579555715	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565579555715	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565579555716	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565579557862	Marionette	INFO	Listening on port 54148
+1565579557895	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+1565579558691	Marionette	INFO	Stopped listening on port 53933
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context19' can't be sent as the connection is closed."
+1565579581321	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.Zwz7uAWjdYuj"
+1565579581988	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565579581988	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565579581988	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565579584238	Marionette	INFO	Listening on port 54220
+1565579584312	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+1565579841052	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.ftKx4gpDXvim"
+1565579842078	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565579842078	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565579842078	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565579844311	Marionette	INFO	Listening on port 54358
+1565579844376	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+1565580095521	Marionette	INFO	Stopped listening on port 54148
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context19' can't be sent as the connection is closed."
+1565580098741	Marionette	INFO	Stopped listening on port 54220
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565395285947%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1565580301088	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.dsWbD4GKvwXe"
+1565580301938	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565580301938	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565580301938	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565580304701	Marionette	INFO	Listening on port 54628
+1565580305670	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+1565580371696	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.zbDBPwhvlDxx"
+1565580372584	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565580372585	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565580372585	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565580375198	Marionette	INFO	Listening on port 54733
+1565580375264	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+1565580391778	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.R7aisDFGZNY3"
+1565580392673	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565580392674	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565580392674	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565580395180	Marionette	INFO	Listening on port 54820
+1565580395284	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context19' can't be sent as the connection is closed."
+1565580621783	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.uzePyY506PqQ"
+1565580622856	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565580622857	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565580622857	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565580625053	Marionette	INFO	Listening on port 55019
+1565580625077	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565395285947%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565395285947%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565395285947%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565395285947%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1565580715845	Marionette	INFO	Stopped listening on port 54358
+1565580718914	Marionette	INFO	Stopped listening on port 54628
+1565580721709	Marionette	INFO	Stopped listening on port 54733
+1565580724762	Marionette	INFO	Stopped listening on port 54820
+1565580727848	Marionette	INFO	Stopped listening on port 55019
+1565580795955	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.8WfzxLnVW8mk"
+1565580796607	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565580796608	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565580796608	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565580798529	Marionette	INFO	Listening on port 55161
+1565580798557	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+1565580924844	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.GhhSsjM2HrP0"
+1565580925453	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565580925454	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565580925454	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565580927488	Marionette	INFO	Listening on port 55282
+1565580927553	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+1565581010431	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.rqPtINvd06Xl"
+1565581011204	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565581011205	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565581011205	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565581013440	Marionette	INFO	Listening on port 55385
+1565581013529	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+1565581092139	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.UGELGw7lREpq"
+1565581092863	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565581092863	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565581092863	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565581095133	Marionette	INFO	Listening on port 55464
+1565581095166	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565395285947%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565395285947%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565395285947%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1565581307591	Marionette	INFO	Stopped listening on port 55161
+[Parent 5270, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+1565581310522	Marionette	INFO	Stopped listening on port 55282
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context19' can't be sent as the connection is closed."
+1565581313609	Marionette	INFO	Stopped listening on port 55385
+1565581904844	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.Eq7EZUpGI9Ur"
+1565581905621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565581905622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565581905622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565581907744	Marionette	INFO	Listening on port 55860
+1565581907839	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+1565581921850	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.3qu5fg0Wa14x"
+1565581922541	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565581922541	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565581922541	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565581924530	Marionette	INFO	Listening on port 55930
+1565581924552	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context19' can't be sent as the connection is closed."
+1565581968770	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.G3C4mFgSgr9X"
+1565581969456	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565581969457	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565581969457	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565581971426	Marionette	INFO	Listening on port 56010
+1565581971448	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+1565581983320	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.NEMd34jJDofr"
+1565581983933	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565581983934	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565581983934	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565581985985	Marionette	INFO	Listening on port 56085
+1565581986007	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565395285947%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565395285947%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565395285947%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565395285947%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1565582418455	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.vW9M22L7dB1C"
+1565582419559	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565582419559	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565582419559	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565582421757	Marionette	INFO	Listening on port 56401
+1565582421794	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+1565582499159	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.OuoPnRk1WbbG"
+1565582500176	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565582500176	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565582500176	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565582502707	Marionette	INFO	Listening on port 56498
+1565582502815	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+1565582520882	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.qFdGbfop5ao2"
+1565582521807	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565582521807	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565582521807	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565582523995	Marionette	INFO	Listening on port 56580
+1565582524105	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+1565582600749	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.tJkFPxZHA6By"
+1565582601726	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565582601726	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565582601726	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565582604071	Marionette	INFO	Listening on port 56701
+1565582604112	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+1565582621643	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.ABbIsYDiMK1F"
+1565582622587	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565582622588	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565582622588	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565582625013	Marionette	INFO	Listening on port 56776
+1565582625106	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+1565582661242	Marionette	INFO	Stopped listening on port 55464
+1565582666583	Marionette	INFO	Stopped listening on port 55860
+1565582670933	Marionette	INFO	Stopped listening on port 55930
+1565582674467	Marionette	INFO	Stopped listening on port 56010
+1565582677995	Marionette	INFO	Stopped listening on port 56085
+1565582681670	Marionette	INFO	Stopped listening on port 56498
+1565582684742	Marionette	INFO	Stopped listening on port 56580
+1565582688312	Marionette	INFO	Stopped listening on port 56701
+1565582691915	Marionette	INFO	Stopped listening on port 56401
+1565582695501	Marionette	INFO	Stopped listening on port 56776
+1565582701210	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.5pu8FBSfoFdR"
+1565582702161	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565582702162	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565582702162	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565582703965	Marionette	INFO	Listening on port 56912
+1565582704011	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+1565582743624	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.3imJ50EdfYfn"
+1565582744248	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565582744249	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565582744249	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565582746191	Marionette	INFO	Listening on port 56996
+1565582746229	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+1565582827939	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.SOr0OXLx1DsR"
+1565582828575	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565582828575	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565582828575	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565582830648	Marionette	INFO	Listening on port 57077
+1565582830738	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565395285947%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565395285947%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565395285947%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1565583335486	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.AQixCglA5dWg"
+1565583336326	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565583336326	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565583336326	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565583338714	Marionette	INFO	Listening on port 57315
+1565583338786	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+1565583347113	Marionette	INFO	Stopped listening on port 56912
+1565583349895	Marionette	INFO	Stopped listening on port 56996
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context19' can't be sent as the connection is closed."
+1565583352823	Marionette	INFO	Stopped listening on port 57077
+1565583355503	Marionette	INFO	Stopped listening on port 57315
+1565583635878	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.NNVJbZB0x7R1"
+1565583636775	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565583636775	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565583636775	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565583639215	Marionette	INFO	Listening on port 57533
+1565583639976	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+1565583832473	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.0U4qNHpbhm54"
+1565583833178	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565583833178	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565583833178	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565583835529	Marionette	INFO	Listening on port 57685
+1565583835578	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+1565583852934	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.PxuYqsyHIpyB"
+1565583853638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565583853640	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565583853640	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565583855936	Marionette	INFO	Listening on port 57762
+1565583856013	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565395285947%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565395285947%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565395285947%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1565584653145	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.aVnFULSBQ7G7"
+1565584654100	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565584654100	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565584654100	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565584656424	Marionette	INFO	Listening on port 58059
+1565584656452	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+1565584680144	Marionette	INFO	Stopped listening on port 57533
+1565584683043	Marionette	INFO	Stopped listening on port 57685
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context19' can't be sent as the connection is closed."
+1565584686242	Marionette	INFO	Stopped listening on port 57762
+1565584689088	Marionette	INFO	Stopped listening on port 58059
+1565584691910	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.z2YLbZiPwOxr"
+1565584692542	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565584692542	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565584692542	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565584694497	Marionette	INFO	Listening on port 58152
+1565584694588	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+1565584734753	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.h1UogMTIepev"
+1565584735332	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565584735332	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565584735332	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565584737356	Marionette	INFO	Listening on port 58233
+1565584737448	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565395285947%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565395285947%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1565584937158	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.ZnIxPjmkiPo6"
+1565584937926	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565584937927	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565584937927	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565584940120	Marionette	INFO	Listening on port 58376
+1565584940155	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+1565584990831	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.UDNrGLzsVTXP"
+1565584991561	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565584991562	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565584991562	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565584993661	Marionette	INFO	Listening on port 58474
+1565584993732	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+1565585051538	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.8pEx58iCXBv8"
+1565585052248	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565585052249	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565585052249	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565585054283	Marionette	INFO	Listening on port 58562
+1565585054353	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+1565585069921	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.rbB9N4Dal0GH"
+1565585070622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565585070624	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565585070624	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565585072828	Marionette	INFO	Listening on port 58648
+1565585072885	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565395285947%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565395285947%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565395285947%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565395285947%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+[Parent 5762, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+1565585662680	Marionette	INFO	Stopped listening on port 58152
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context19' can't be sent as the connection is closed."
+1565585668825	Marionette	INFO	Stopped listening on port 58233
+1565585675915	Marionette	INFO	Stopped listening on port 58376
+[Parent 5802, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+1565585680633	Marionette	INFO	Stopped listening on port 58474
+1565585683998	Marionette	INFO	Stopped listening on port 58562
+1565585686952	Marionette	INFO	Stopped listening on port 58648
+1565587046677	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.YEvvce9NZDYo"
+1565587047640	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565587047641	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565587047641	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565587049901	Marionette	INFO	Listening on port 59554
+1565587049912	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+1565587452046	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.ZBpb2j6nLvGh"
+1565587452767	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565587452768	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565587452768	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565587454954	Marionette	INFO	Listening on port 59797
+1565587455045	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+1565587661092	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.TvWmfWxDtP8e"
+1565587661737	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565587661738	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565587661738	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565587663797	Marionette	INFO	Listening on port 59928
+1565587663877	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+1565587681862	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.cQCzOw6GYdYa"
+1565587682470	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565587682470	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565587682470	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565587684783	Marionette	INFO	Listening on port 60018
+1565587684866	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565395285947%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565395285947%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565395285947%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565395285947%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1565587828913	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.o8FTaEdzaN3v"
+1565587829637	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565587829637	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565587829637	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565587832001	Marionette	INFO	Listening on port 60135
+1565587832034	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565395285947%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1565588359654	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.F69f9j0QJGr0"
+1565588360544	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565588360545	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565588360545	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565588362778	Marionette	INFO	Listening on port 60383
+1565588362869	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+1565588371531	Marionette	INFO	Stopped listening on port 59554
+1565588374628	Marionette	INFO	Stopped listening on port 59797
+1565588377678	Marionette	INFO	Stopped listening on port 59928
+1565588380405	Marionette	INFO	Stopped listening on port 60018
+1565588383400	Marionette	INFO	Stopped listening on port 60135
+1565588386137	Marionette	INFO	Stopped listening on port 60383
+1565588448152	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.hNzYvsWAMN2q"
+1565588448784	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565588448785	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565588448785	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565588450806	Marionette	INFO	Listening on port 60495
+1565588450837	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565395285947%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1565588967179	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.bHSVkSrTUhGw"
+1565588967902	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565588967902	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565588967903	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565588969883	Marionette	INFO	Listening on port 60833
+1565588969972	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565395285947%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1565589097739	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.dlGZiLYEi5iu"
+1565589098362	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565589098362	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565589098362	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565589100413	Marionette	INFO	Listening on port 60958
+1565589100432	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565395285947%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1565589882755	Marionette	INFO	Stopped listening on port 60495
+1565589885666	Marionette	INFO	Stopped listening on port 60833
+1565589888608	Marionette	INFO	Stopped listening on port 60958
+1565589933391	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.5Dgjtpbktt1L"
+1565589934215	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565589934216	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565589934216	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565589936402	Marionette	INFO	Listening on port 61360
+1565589936492	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565395285947%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+[Parent 6220, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Parent 6220, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Parent 6220, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+1565619550575	Marionette	INFO	Stopped listening on port 61360
+1565633511571	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.ICkz4GY8B2qQ"
+1565633512945	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565633512945	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565633512946	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565633515117	Marionette	INFO	Listening on port 53536
+1565633515175	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565632556569%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565481679319%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1565647586340	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.aGcI2ParYdm0"
+1565647587319	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565647587320	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565647587320	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565647589606	Marionette	INFO	Listening on port 57751
+1565647589638	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565481679319%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x9000E,name=PBackgroundIDBDatabase::Msg_CloseAfterInvalidationComplete) Channel error: cannot send/recv
+
+1565706146765	Marionette	INFO	Stopped listening on port 57751
+[Parent 1228, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+[Parent 1228, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+1565706147930	Marionette	INFO	Stopped listening on port 53536
+1565721054028	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.kgNgfpiZlUpq"
+1565721055184	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565721055184	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565721055185	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565721057690	Marionette	INFO	Listening on port 54932
+1565721057761	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565717716453%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1565792817925	Marionette	INFO	Stopped listening on port 54932
+1565967603787	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.yONLPwifl2TB"
+1565967604878	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1565967604879	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1565967604879	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1565967608020	Marionette	INFO	Listening on port 49722
+1565967608112	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565913612838%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2000D,name=PAPZ::Msg_Destroy) Channel error: cannot send/recv
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221565990069261%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1566069965634	Marionette	INFO	Stopped listening on port 49722
+1566405846216	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.u0mDpF85e77c"
+1566405847484	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566405847485	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566405847485	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566405849709	Marionette	INFO	Listening on port 52074
+1566405849772	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221566233826256%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221566360891835%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x9000E,name=PBackgroundIDBDatabase::Msg_CloseAfterInvalidationComplete) Channel error: cannot send/recv
+
+1566416391600	Marionette	INFO	Stopped listening on port 52074
+1566511936046	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.6jEcsxhlh1KK"
+1566511937191	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566511937192	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566511937192	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566511939661	Marionette	INFO	Listening on port 57091
+1566511939693	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221566506664698%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1566570368995	Marionette	INFO	Stopped listening on port 57091
+1566590005701	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.WOKMCn9rfIQO"
+1566590006826	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566590006826	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566590006826	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566590009246	Marionette	INFO	Listening on port 54125
+1566590009274	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561548844810%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1566829723372	Marionette	INFO	Stopped listening on port 54125
+1567003998867	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.MXoNbDPCesrS"
+1567003999950	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567003999951	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567003999951	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567004002418	Marionette	INFO	Listening on port 54966
+1567004002477	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221566928461945%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567012290051%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567016903616%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567023479829%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1567099249972	Marionette	INFO	Stopped listening on port 54966
+1567699268242	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.KL7IFgEZDUQN"
+1567699270566	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567699270566	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567699270567	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567699270567	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567699273731	Marionette	INFO	Listening on port 50784
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567621920756%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+1567699412793	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.tVq6bW3eN9zv"
+1567699414172	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567699414173	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567699414173	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567699414173	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567699416182	Marionette	INFO	Listening on port 50866
+1567699416258	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567621920756%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+1567699480751	Marionette	INFO	Stopped listening on port 50784
+1567699482856	Marionette	INFO	Stopped listening on port 50866
+1568060228945	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.gYm08xANlS2q"
+1568060230736	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568060230736	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568060230736	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568060230737	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568060234025	Marionette	INFO	Listening on port 57092
+1568060234064	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221568051630234%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+1568065863443	Marionette	INFO	Stopped listening on port 57092
+1568335340112	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.V8NpMf69P4bX"
+1568335343359	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568335343360	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568335343360	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568335343360	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568335350316	Marionette	INFO	Listening on port 54623
+1568335352646	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.khYQk3pTB7bC"
+1568335353629	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1568335353629	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1568335353630	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1568335353630	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1568335356443	Marionette	INFO	Listening on port 54661
+1568335356528	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+1568336876784	Marionette	INFO	Stopped listening on port 54623
+1568336881945	Marionette	INFO	Stopped listening on port 54661
+1570203010613	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.QUkCdOQdgBHJ"
+1570203012307	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570203012308	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570203012308	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570203012308	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570203015873	Marionette	INFO	Listening on port 50713
+1570203015918	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+1570213611391	Marionette	INFO	Stopped listening on port 50713
+1573488838786	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.rmhitsWunGzN"
+1573488840557	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573488840557	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573488840558	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573488840558	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573488843490	Marionette	INFO	Listening on port 51689
+1573488843586	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+1573701949594	Marionette	INFO	Stopped listening on port 51689
+1581521724532	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.mw6ZVmIDOVEg"
+1581521725608	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581521725762	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581521725762	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581521725762	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581521725762	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1581521729401	Marionette	INFO	Listening on port 49883
+1581521729472	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+1581551194409	Marionette	INFO	Stopped listening on port 49883
+1582055685594	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.IuFPznByvwMI"
+1582055686631	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582055687076	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582055687076	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582055687076	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582055687076	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582055691237	Marionette	INFO	Listening on port 62938
+1582055691280	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+1582059621199	Marionette	INFO	Stopped listening on port 62938
+1582310002469	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.ccA0jWfHoXfX"
+1582310003801	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582310004330	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582310004330	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582310004330	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582310004330	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582310008532	Marionette	INFO	Listening on port 51976
+1582310008564	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+1582310041935	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.2Nfy7aziSrIK"
+1582310042815	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582310043241	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582310043241	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582310043241	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582310043241	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582310045785	Marionette	INFO	Listening on port 52095
+1582310045837	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582310230543	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.D4l7vHv0MgUB"
+1582310231467	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582310231884	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582310231884	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582310231884	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582310231885	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582310234302	Marionette	INFO	Listening on port 52237
+1582310234407	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+1582310977397	Marionette	INFO	Stopped listening on port 52095
+1582310979932	Marionette	INFO	Stopped listening on port 51976
+1582310983328	Marionette	INFO	Stopped listening on port 52237
+1583174863928	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6h/lpdf_w1s3c75g86dmlq1rq500000gn/T/rust_mozprofile.MRRZqJiHvOrp"
+1583174864786	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583174865197	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583174865197	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583174865197	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583174865197	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1583174867985	Marionette	INFO	Listening on port 63036
+1583174868080	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mycryptopay.com/devel/genesys/themes/cryptopay/javascript/configuredevice.js, line 510: ReferenceError: $ is not defined
+1583203272076	Marionette	INFO	Stopped listening on port 63036
