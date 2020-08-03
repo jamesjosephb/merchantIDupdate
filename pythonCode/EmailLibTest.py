@@ -4,7 +4,7 @@ import os
 import json
 from selenium import webdriver
 from selenium.webdriver.support.ui import Select
-
+import config
 
 
 # Accepts email and returns body of email
@@ -41,6 +41,7 @@ def EmailtoText(dir, emailFile):
             emailtxt.write(text)
             emailtxt.close()
 
+
 # Checks to ensure that data is in JSON format
 def is_json(myjson):
     try:
@@ -49,6 +50,7 @@ def is_json(myjson):
         return False
     return True
 
+
 # Accepts JSON and return MPM# and MID#
 def retreaveMPMIDfromJSON(jsonData):
     json_object = json.loads(printEmailBody(filename))
@@ -56,13 +58,14 @@ def retreaveMPMIDfromJSON(jsonData):
     MID = json_object["acceptorid"]
     return MPM, MID
 
+
 # Logs into Support Database and returns Selenium driver object
 def loginSupportDB():
     path = "../drivers/geckodriver"
     driver = webdriver.Firefox(executable_path=path)
     driver.get("https://www.mycryptopay.com/devel/genesys/index.php")
-    driver.find_element_by_name("username").send_keys("config.username")
-    driver.find_element_by_name("password").send_keys("config.password")
+    driver.find_element_by_name("username").send_keys(config.username)
+    driver.find_element_by_name("password").send_keys(config.password)
     driver.find_element_by_name("submit_login").click()
     return driver
 
@@ -81,8 +84,6 @@ def setDatabaseMPMID(driver, MPM, MID):
 
 
 if __name__ == "__main__":
-
-
     driver = loginSupportDB()
     for filename in os.listdir('../EmailNotYetProcessed'):
         os.chdir('../EmailNotYetProcessed')
@@ -97,7 +98,3 @@ if __name__ == "__main__":
                 EmailtoText('../nonJSONdata', filename)
         os.chdir('../EmailNotYetProcessed')
         os.remove(filename)
-
-
-
-

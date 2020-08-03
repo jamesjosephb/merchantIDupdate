@@ -1,1 +1,5 @@
 .DS_Store
+pythonCode/geckodriver.log
+pythonCode/.idea
+pythonCode/__pycache__
+pythonCode/config.py

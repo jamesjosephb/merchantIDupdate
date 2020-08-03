@@ -41,14 +41,12 @@ def getMPPG1info(email):
         return emailinfo
 
 
-
-
-
 def getNameOfSite(email):
     match = re.search(r"(Here are the MPPG credentials for) (.*)", email)
     # print(match.group(2))
     nameOfSite = match.group(2)
     return nameOfSite
+
 
 def getAddress(email):
     match = re.search(r"(Street Address 1:) (.*)", email)
@@ -57,15 +55,18 @@ def getAddress(email):
     siteAddress += match.group(2)
     return siteAddress
 
+
 def getCity(email):
     match = re.search(r"(City:) (.*)", email)
     siteCity = match.group(2)
     return siteCity
 
+
 def getState(email):
     match = re.search(r"(State:) (.*)", email)
     siteState = match.group(2)
     return siteState
+
 
 def getOutGoingEmail(updatedEmail):
     match = re.search(r"(Email:) (.*)", updatedEmail)
@@ -73,22 +74,19 @@ def getOutGoingEmail(updatedEmail):
     outGoingEmail = match.group(2)
     return outGoingEmail
 
+
 def getMPMnumber(updatedEmail):
     match = re.search(r"(MPPG Merchant ID =) (.*)", updatedEmail)
     # print(match.group(2))
     mpmNumber = match.group(2)
     return mpmNumber
 
+
 def getTerminalID(updatedEmail):
     match = re.search(r"(Terminal ID:) (.*)", updatedEmail)
     # print(match.group(2))
     terminalID = match.group(2)
     return terminalID
-
-
-
-
-
 
 
 if __name__ == "__main__":
@@ -105,10 +103,4 @@ if __name__ == "__main__":
         except AttributeError as e:
             print(filename)
             print(emailBody)
-
-
-
-
-
-
         print("\n\n\n")
